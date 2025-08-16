@@ -1,0 +1,9 @@
+{
+  "name": "Sanitas Benefits Tracker",
+  "short_name": "Benefits",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0a1020",
+  "theme_color": "#0a1020",
+  "icons": []
+}
